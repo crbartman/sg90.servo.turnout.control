@@ -9,4 +9,4 @@ I hope you find this a usefull design.
 
 Update:
 
-The newer three files represent version 2 of the design. The images are of the new design mounted in 1/4" plywood with 3/4" foam board on top.
+The newer three files represent version 2 of the design. The images are of the new design mounted in 1/4" plywood with 3/4" foam board on top. The indicators on the stand are made from .035 piano wire and 3mm brass rounds. They have been painted with Rust-Oleum Rustic Slate Roof Accessory Paint.
